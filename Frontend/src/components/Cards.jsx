@@ -16,9 +16,13 @@ function Cards({ item }) {
           <p>{item.title}</p>
           <div className="card-actions flex justify-between items-center">
             <div className="badge badge-outline">${item.price}</div>
-            <div className="cursor-pointer px-2 py-1 rounded-full border-[2px] hover:bg-pink-500 hover:text-white duration-200">
+            <a
+              href={item.downloadLink}
+              className="cursor-pointer px-2 py-1 rounded-full border-[2px] hover:bg-pink-500 hover:text-white duration-200"
+              download
+            >
               Download
-            </div>
+            </a>
           </div>
         </div>
       </div>

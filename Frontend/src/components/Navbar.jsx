@@ -45,7 +45,7 @@ function Navbar() {
         <a href="/course">Course</a>
       </li>
       <li>
-        <a href="/Codeeditor">Code Editor</a>
+        <a href="https://abhigyan2212.github.io/CoderZCluB-Practice-Code-Editor/">Code Editor</a>
       </li>
       <li>
         <a>About</a>
