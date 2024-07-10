@@ -1,2 +1,3 @@
 # CodeStream
-My MERN stack project, Code Stream, features handwritten notes on programming languages, an HTML/CSS/JavaScript code editor, and more. Courses are coming soon as it's still in development.
+My MERN stack project, Code Stream, features handwritten notes on programming languages, an HTML/CSS/JavaScript code editor, and more. Courses are coming soon as it's still in development Switch to Master Branch...
+![Screenshot 2024-06-30 193016](https://github.com/Abhigyan2212/CodeStream/assets/97295401/f3408b4f-f74c-42ad-af49-77c648a30e94)
